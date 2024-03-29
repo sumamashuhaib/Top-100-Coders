@@ -5,15 +5,16 @@
 
 #### Leadership and Influence: 
 
-In my current stage of education, I have actively participated in group projects and demonstrated leadership skills by coordinating team efforts and ensuring successful project completion. I aim to further develop these skills through involvement in student organizations and extracurricular activities.
+- In my current stage of education, I have actively participated in group projects and demonstrated leadership skills by coordinating team efforts and ensuring successful project completion. I aim to further develop these skills through involvement in student organizations and extracurricular activities.
 
 #### As a Top 100 Member: 
 
-I'm interested in learning new technologies and having fresh experiences collaborating with a diverse community of programmers.
+- Learn, Socialize and Grow together as a community to strive great things fir the future.
+
 
 #### Career Plan: 
 
-I'm interested in learning new technologies and having fresh experiences collaborating with a diverse community of programmers.
+ - I am improving my skillset everyday whether it be by doing tasks in the workplace or by learning new things that comes to my path.
 
 #### Thoughts on Kerala's Tech Ecosystem: 
 
